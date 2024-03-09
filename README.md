@@ -19,3 +19,7 @@ Viewer gets to view current, sold, on bid properties.
 WAA : Web application architecture is 500 level course design to demonstarte the differnet layers/tiers of a web application program following the microservices architecture.
 Course taken on-campus at Maharishi International University, Fairfield-IA.
 Taught by Dr. Muhyidean Altarawneh.
+April-May/2023 block
+
+#Note This Repo contains the backend part.
+for the frontend section please refer to another Repo.
